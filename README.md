@@ -4,7 +4,7 @@ A modern personal portfolio website built using HTML, CSS and JavaScript to show
 
 ## 🚀 Live Demo
 
-(Add GitHub Pages link here after deployment)
+(https://anshika-techie.github.io/portfolio/)
 
 ## ✨ Features
 
